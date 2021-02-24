@@ -1,0 +1,11 @@
+biqguery:
+  -
+    key: "hoge"
+    dataset: "hoge"
+    table: "hoge"
+    suffix: "YYYYMM01"
+  -
+    key: "fuga"
+    dataset: "fuga"
+    table: "fuga"
+    suffix: "YYYYMM01"
